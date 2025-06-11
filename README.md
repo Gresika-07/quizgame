@@ -25,3 +25,6 @@ git clone https://github.com/Gresika-07/quizgame.git
 cd react-mcq-game
 npm install
 npm start
+
+##Note: If any other contributor name appears, please note that this was entirely developed by me. Previous Git configuration may have reflected someone else's name by mistake.
+
